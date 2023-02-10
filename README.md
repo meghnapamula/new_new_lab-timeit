@@ -45,7 +45,7 @@ and tell the person sitting next to you what your guess is.
 
 **Part 1:**
 
-Now you will use the [timeit module](https://docs.python.org/3/library/timeit.html) in python to measure the runtimes of the palendrome functions.
+Now you will use the [timeit module](https://docs.python.org/3/library/timeit.html) in python to measure the runtimes of the palindrome functions.
 This module is used in the terminal in the following way:
 ```
 $ python3 -m timeit -s "$SETUP_CODE" "$CODE_TO_TIME"
